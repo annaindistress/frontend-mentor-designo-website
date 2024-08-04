@@ -1,7 +1,7 @@
 export default function Page () {
   return (
     <>
-      <h1>Designo Agency | Home page</h1>
+      <h1>Designo Agency | App Design</h1>
     </>
   )
 };
